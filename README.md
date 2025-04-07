@@ -23,6 +23,6 @@ This application includes:
 - Session-based Authentication
 
 ## ℹ️ Contact
-For collaboration or code access (if permitted), contact me at:
-**[your email or GitHub profile link]**
+For collaboration or code access , contact me at:
+shahham97@gmail.com
 
