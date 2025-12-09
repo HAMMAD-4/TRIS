@@ -24,5 +24,5 @@ This application includes:
 
 ## ℹ️ Contact
 For collaboration or code access , contact me at:
-shahham97@gmail.com
+developerforhirre@gmail.com
 
